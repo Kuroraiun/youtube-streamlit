@@ -13,8 +13,6 @@ df = pd.DataFrame({
 
 st.write(df)
 
-'test'
-
 """
 # 章
 ## 節
